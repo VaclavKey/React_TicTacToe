@@ -35,4 +35,4 @@ This is a classic Tic-Tac-Toe game built using React, TypeScript, and functional
 
 Here's what the app looks like when running:
 
-![TicTacToe Example](src/assets/screenshot.png)
+![TicTacToe Example](src/assets/screenshot.PNG)
