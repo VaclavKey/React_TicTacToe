@@ -23,7 +23,7 @@ This is a classic Tic-Tac-Toe game built using React, TypeScript, and functional
    git clone https://github.com/VaclavKey/React_TicTacToe.git
 2. Navigate to the project directory:
    ```bash
-   cd tic-tac-toe
+   cd React_TicTacToe
 3. Install dependencies:
    ```bash
    npm install
